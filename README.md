@@ -35,7 +35,7 @@ Este es el backend de un gestor de tareas desarrollado con Spring Boot, Maven y 
 
 ## ⚙️ Configuración del Entorno
 ### Variables de Entorno
-Crea un archivo .env en la raíz del proyecto y define o segun corresponda a la BD local:
+Crea un archivo .env en la raíz del proyecto spring boot /tasksmanager y define o segun corresponda a la BD local:
 ```env
 DB_HOST=127.0.0.1
 DB_PORT=3306
